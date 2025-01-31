@@ -21,7 +21,7 @@
       ]
     ],
     "mcu": "esp32s3",
-    "variant": "esp32s3"
+    "variant": "amox_ion_esp32s3"
   },
   "connectivity": [
     "bluetooth",
